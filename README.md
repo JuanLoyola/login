@@ -6,11 +6,10 @@
 * Javascript
 * Vue.js
 * Vuetify
-* Echarts
 ```
 
 ## Live 
-<a href="https://dashboard-vuetify-loyola.netlify.app/" target="_blank">here</a>
+<a href="https://login-dinamico.netlify.app" target="_blank">here</a>
 
 # Desktop preview:
 
